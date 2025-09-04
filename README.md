@@ -44,11 +44,15 @@ From your savings/investing category, set aside at least 10–15% of your total 
 ### 7. Open a Brokerage Account
 Choose a reputable online broker, create an account, and link your bank.
 
+<img src="brokerage.jpg" alt="E*Trade mobile brokerage" style="height:120px; width: 130px">
+
 ### 8. Set Up Automatic Transfers
 Schedule a transfer so that your chosen investment percentage moves directly from your bank into your brokerage account each month.
 
 ### 9. Select Beginner-Friendly Investments
 For simplicity, many beginners start with index funds or ETFs that track the overall stock market.
+
+<img src="SP500.jpg" alt="S&P500 stock chart" style="height:120px; width: 130px">
 
 ### 10. Place Your First Investment
 Use your brokerage account to buy shares of the ETF, index fund, or stock of your choice. Start small, and grow consistently.
@@ -59,6 +63,7 @@ Each month, compare actual expenses with your budget. Adjust categories if you'r
 ### 12. Review and Rebalance Regularly
 Every 6–12 months, review your budget and investments. Reallocate if needed to stay on track with your goals.
 
+<img src="stock-income.webp" alt="financially wealthy from investing" style="height:120px; width: 130px">
 ---
 
 ✅ **Following these steps gives you a simple system: spend wisely, save intentionally, and invest consistently. Over time, your investments in the stock market can grow into long-term wealth.**
