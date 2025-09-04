@@ -30,6 +30,40 @@ Estimate categories like groceries, gas, entertainment, and dining out.
 ### 4. Separate Needs from Wants
 Label each expense as either a "need" (essential) or a "want" (non-essential).
 
+![impulse](# How to Create a Budget and Invest in the Stock Market
+
+Budgeting is the process of planning how to use your income to cover expenses, save for the future, and invest for long-term growth. By building a budget, you can take control of your money and make sure a portion of it is invested in the stock market, where it has the potential to grow over time.
+
+> **WARNING:** Investing always carries risk. You may lose money as well as make money. Only invest what you can afford to set aside for long-term growth.
+
+---
+
+## Required Materials
+
+- Monthly income amount (from salary, side hustle, or other sources)
+- List of recurring expenses (rent, utilities, groceries, etc.)
+- Bank account or budgeting app (e.g., Mint, YNAB, Excel)
+- Brokerage account (Fidelity, Vanguard, Robinhood, Schwab, etc.)
+- Internet access
+
+---
+
+## Steps
+
+### 1. Calculate Your Total Monthly Income
+Write down all sources of income after taxes. Include salary, freelance work, or side income.
+
+### 2. List All Fixed Expenses
+Record costs that stay the same each month, such as rent, loan payments, and subscriptions.
+
+### 3. List Variable Expenses
+Estimate categories like groceries, gas, entertainment, and dining out.
+
+### 4. Separate Needs from Wants
+Label each expense as either a "need" (essential) or a "want" (non-essential).
+
+![I'm craving... impulse purchases](impulse.jpg)
+
 ### 5. Choose a Budgeting Method
 A simple beginner method is the 50/30/20 rule:
 - **50% of income** → needs
